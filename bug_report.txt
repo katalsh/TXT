@@ -1,4 +1,4 @@
-Bug Report (Desktop calculator application)
+"Desktop calculator application"
 ID: DCA1
 Summary: The [8] disappears on the keypad after pressing it.
 Description: The [8] disappears on the keypad after pressing it. Remains empty space between other buttons. The [8] returns only after restarting the application.
