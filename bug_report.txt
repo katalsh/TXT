@@ -8,7 +8,7 @@ Steps to reproduce: 1. Open the app by double-clicking on the exe.file "calc".
 Expected result: 1. The calculator app is open.
                  2. Found [8] on the keypad.
                  3. The [8] still on the place.
-Actual rsult: 1. The calculator app is open.                
+Actual result: 1. The calculator app is open.                
               2. Found [8] on the keypad.
               3. The [8] disappeared.
 Reprodusible: Always
